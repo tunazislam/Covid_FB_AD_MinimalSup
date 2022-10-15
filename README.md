@@ -1,2 +1,2 @@
-# Covid_FB_AD_WeaklySup
+# Covid_FB_AD_MinimalSup
 Conference
