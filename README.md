@@ -1,7 +1,7 @@
 # Covid_FB_AD_MinimalSup
 
-This repository contains data for paper titled "Understanding COVID-19 Vaccine Campaign on Facebook using Minimal
-Supervision", [IEEE BigData 2022](https://bigdataieee.org/BigData2022/).
+This repository contains data for paper titled [ [Understanding COVID-19 Vaccine Campaign on Facebook using Minimal
+Supervision](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10021123) ], [IEEE BigData 2022](https://bigdataieee.org/BigData2022/).
 
 ## Data:
 
