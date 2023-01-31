@@ -13,11 +13,14 @@ Supervision", [IEEE BigData 2022](https://bigdataieee.org/BigData2022/).
 If you find the paper useful in your work, please cite:
 
 ```
-@article{islam2022understanding,
-  title={Understanding COVID-19 Vaccine Campaign on Facebook using Minimal Supervision},
+@INPROCEEDINGS{islam2022covidfbAd,
   author={Islam, Tunazzina and Goldwasser, Dan},
-  journal={arXiv preprint arXiv:2210.10031},
-  year={2022}
-}
+  booktitle={2022 IEEE International Conference on Big Data (Big Data)}, 
+  title={Understanding COVID-19 Vaccine Campaign on Facebook using Minimal Supervision}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={585-595},
+  doi={10.1109/BigData55660.2022.10021123}}
 
 ```
